@@ -73,12 +73,11 @@ A fully functional parking management system built from scratch demonstrating st
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QaswarSarfrazcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=QaswarSarfrazcodes&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaswarSarfrazcodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/QaswarSarfrazcodes?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/QaswarSarfrazcodes/VistaVoyage-Semester-Project?style=for-the-badge&logo=github&label=VistaVoyage+Stars&color=181717" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Total_Commits-35%2B-02569B?style=for-the-badge&logo=git&logoColor=white" alt="Commits" />
 </p>
 
 ---
