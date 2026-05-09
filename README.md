@@ -70,7 +70,7 @@ A fully functional parking management system built from scratch demonstrating st
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/QaswarSarfrazcodes?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers" />
