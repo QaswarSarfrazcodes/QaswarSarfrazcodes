@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Qaswar 👋</h1>
 
 <p align="center">
-  <b>Flutter Developer · AI-Integrated Mobile Apps · SE Student @ NUML Islamabad</b>
+  <b>Flutter Developer · AI-Integrated Mobile Apps · CS Student @ NUML Islamabad</b>
 </p>
 
 <p align="center">
   I build cross-platform mobile apps that actually do things —
   real-time AI itineraries, cloud backends, clean animated UIs.
-  Currently finishing my SE degree while shipping production-ready Flutter projects.
+  Currently finishing my CS degree while shipping production-ready Flutter projects.
   Open to remote roles and freelance clients worldwide.
 </p>
 
@@ -74,7 +74,7 @@ A fully functional parking management system built from scratch demonstrating st
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QaswarSarfrazcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QaswarSarfrazcodes&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=QaswarSarfrazcodes&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -130,9 +130,6 @@ Available from **July 2026** onwards · Graduating June 2026 — BS Software Eng
 
 ---
 
-After saving, go to **Actions tab → "generate animation" → Run workflow**. The snake will appear within 1–2 minutes.
-
----
 
 <p align="center">
   <i>Thanks for visiting — feel free to reach out for collaborations or opportunities!</i>
