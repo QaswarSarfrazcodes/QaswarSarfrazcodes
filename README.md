@@ -128,6 +128,39 @@ Available from **July 2026** onwards · Graduating June 2026 — BS Software Eng
 | 🐙 GitHub | [github.com/QaswarSarfrazcodes](https://github.com/QaswarSarfrazcodes) |
 | 📍 Location | Islamabad, Pakistan · Available remote worldwide |
 
+---
+
+## ⚙️ Snake Animation Setup (one-time)
+
+To activate the contribution snake above, create this file in this repo:
+
+**Path:** `.github/workflows/snake.yml`
+
+```yaml
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: QaswarSarfrazcodes
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 After saving, go to **Actions tab → "generate animation" → Run workflow**. The snake will appear within 1–2 minutes.
 
