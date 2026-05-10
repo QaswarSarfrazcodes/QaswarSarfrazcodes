@@ -112,7 +112,7 @@ A fully functional parking management system built from scratch demonstrating st
 | ✅ | Internships — onsite Islamabad/Rawalpindi or remote |
 | ✅ | Collaborations on open-source Flutter or AI projects |
 
-Available from **July 2026** onwards · Graduating June 2026 — BS Software Engineering, NUML Islamabad
+Available from **July 2026** onwards · Graduating June 2027 — BS Software Engineering, NUML Islamabad
 
 ---
 
