@@ -119,7 +119,7 @@ My most ambitious project — a full-stack AI-driven mentorship platform connect
 
 ### 📱 AI Face Scanner — AI-Powered Facial Analysis Mobile App
 > **Stack:** Flutter · Dart · Riverpod · GoRouter · Supabase & Postgres · Hive DB & Secure Storage · Google Mobile Ads  
-> **Association:** For a Client
+> **Association:** CSOFT Systems Internship
 
 A high-performance cross-platform Flutter application delivering 6 core AI-powered facial analysis features, accurately translated from high-fidelity Figma design systems.
 
@@ -207,7 +207,11 @@ An academic practice app built to explore camera PPG optical pulse processing an
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QaswarSarfrazcodes&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=QaswarSarfrazcodes&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QaswarSarfrazcodes&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
