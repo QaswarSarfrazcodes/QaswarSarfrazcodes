@@ -191,9 +191,15 @@ An academic practice app built to explore camera PPG optical pulse processing an
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QaswarSarfrazcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Qaswar's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaswarSarfrazcodes&layout=compact&theme=tokyonight&hide=html,css,scss&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QaswarSarfrazcodes&theme=tokyonight" alt="Qaswar's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QaswarSarfrazcodes&theme=tokyonight" alt="Top Languages by Repo" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QaswarSarfrazcodes&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QaswarSarfrazcodes&theme=tokyonight" alt="Qaswar's GitHub Profile Details" />
 </p>
 
 <p align="center">
