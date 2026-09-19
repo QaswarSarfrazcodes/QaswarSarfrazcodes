@@ -119,7 +119,7 @@ My most ambitious project — a full-stack AI-driven mentorship platform connect
 
 ### 📱 AI Face Scanner — AI-Powered Facial Analysis Mobile App
 > **Stack:** Flutter · Dart · Riverpod · GoRouter · Supabase & Postgres · Hive DB & Secure Storage · Google Mobile Ads  
-> **Association:** CSOFT Systems Internship
+> **Association:** For a Client
 
 A high-performance cross-platform Flutter application delivering 6 core AI-powered facial analysis features, accurately translated from high-fidelity Figma design systems.
 
