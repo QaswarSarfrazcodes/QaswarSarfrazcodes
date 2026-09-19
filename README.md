@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=02569B&center=true&vcenter=true&width=600&lines=Hey%2C+I'm+Qaswar+Sarfraz+%F0%9F%90%A6;Flutter+%26+Mobile+AI+Developer;Building+Cross-Platform+AI+Apps;SE+Student+%40+NUML+Islamabad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=02569B&center=true&vcenter=true&width=650&lines=Hey%2C+I'm+Qaswar+Sarfraz+%F0%9F%90%A6;Flutter+%26+Mobile+AI+Developer;Building+Cross-Platform+AI+Apps;MentorLync+%E2%80%94+My+Flagship+Project;SE+Student+%40+NUML+Islamabad" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I build cross-platform mobile apps that actually do things — AI facial analysis, real-time AI itineraries, cloud backends, clean animated UIs. Currently finishing my SE degree while shipping production-ready Flutter projects. Open to remote roles and freelance clients worldwide.
+  I build cross-platform mobile apps that actually do things — AI mentorship platforms, facial analysis, real-time AI itineraries, cloud backends, clean animated UIs. Currently finishing my SE degree while shipping production-ready Flutter projects. Open to remote roles and freelance clients worldwide.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Contributions-87_in_2026-02569B?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Repositories-14%2B-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-18%2B-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
 </p>
 
 ---
@@ -43,6 +43,7 @@
 - 📱 **Core Specialization**: Cross-Platform Mobile Application Development using **Flutter & Dart**.
 - 🧠 **AI Integration**: Facial analysis models, Groq LLM (Llama 3.3 70B), Google Gemini API, RAG workflows, smart assistants.
 - 🔒 **Architecture**: Clean Architecture, Riverpod & BLoC state management, GoRouter, Supabase & Postgres.
+- 🚀 **Currently Building**: [MentorLync](https://github.com/QaswarSarfrazcodes/MentorLync) — an AI-powered Flutter mentorship platform (active development).
 - 💼 **Open To**: Remote roles, freelance client projects, and software engineering internships worldwide (Available **July 2026+**).
 
 ---
@@ -56,6 +57,7 @@
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/Riverpod-00599C?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/GoRouter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
     </td>
@@ -63,9 +65,10 @@
   <tr>
     <td width="22%"><b>AI & ML Integrations</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Facial_Analysis_AI-E74C3C?style=flat-square&logo=face&logoColor=white" />
+      <img src="https://img.shields.io/badge/Facial_Analysis_AI-E74C3C?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/Groq_Llama_3.3_70B-00A67E?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
@@ -86,6 +89,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Mobile_Ads-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -94,11 +98,30 @@
 
 ## 🚀 Featured Projects
 
+### 🎓 MentorLync — AI-Powered Mentorship Platform *(Under Active Development)*
+> **Stack:** Flutter · Dart · Supabase & Postgres · Riverpod / BLoC · Gemini API · RAG Pipelines · GoRouter  
+> **Association:** Flagship Personal Project — Actively Building
+
+> ![Status](https://img.shields.io/badge/Status-🔨_Under_Development-orange?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Flutter_Cross--Platform-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+My most ambitious project — a full-stack AI-driven mentorship platform connecting mentees with expert mentors, powered by RAG-based AI coaching assistants and intelligent session management.
+
+- 🤝 **Smart Mentor Matching**: AI-driven matching algorithm pairing mentees with mentors based on goals, skills, and availability.
+- 🧠 **RAG-Powered AI Coach**: Context-aware AI assistant (RAG pipeline + LLM) providing personalized guidance between sessions.
+- 📅 **Session Scheduling & Tracking**: Real-time booking, session history, progress milestones, and feedback loops.
+- 🔒 **Secure Auth & Profiles**: Supabase Auth with role-based mentor/mentee profiles, portfolios, and skill tagging.
+- 💬 **In-App Messaging**: Realtime chat, resource sharing, and notification push layer.
+- 🏆 **Progress Gamification**: Achievement badges, streaks, and goal completion tracking to keep learners engaged.
+
+🔗 [View Repository](https://github.com/QaswarSarfrazcodes/MentorLync)
+
+---
+
 ### 📱 AI Face Scanner — AI-Powered Facial Analysis Mobile App
 > **Stack:** Flutter · Dart · Riverpod · GoRouter · Supabase & Postgres · Hive DB & Secure Storage · Google Mobile Ads  
 > **Association:** CSOFT Systems Internship
 
-A high-performance cross-platform Flutter application delivering 6 core AI-powered facial analysis features accurately translated from high-fidelity Figma design systems.
+A high-performance cross-platform Flutter application delivering 6 core AI-powered facial analysis features, accurately translated from high-fidelity Figma design systems.
 
 - 🤖 **6 AI Facial Analysis Modules**: Age & Gender prediction, Facial Harmony (Beauty Score), Face Shape Classification, Dual-Face Resemblance Comparison, Symmetry Analysis, and Celebrity Look-Alike matching.
 - ⚡ **Reactive Architecture**: Riverpod state management, GoRouter guard-protected routing, and custom deep links (`aifacescanner://`).
@@ -126,14 +149,14 @@ A production-grade travel application ecosystem engineered with Flutter, Supabas
 
 ### 🚗 Smart Car Parking Management System
 > **Stack:** Java (JDK 8+) · OOP · Java Swing · Graphics2D · Custom File I/O  
-> **Association:** Academic (NUML 2nd Semester OOP)
+> **Association:** Academic — NUML 2nd Semester OOP Project
 
-A desktop software management system simulating real-world parking facility operations built using Object-Oriented Programming principles.
+A desktop software management system simulating real-world parking facility operations, built entirely on Object-Oriented Programming principles with a rich Swing GUI.
 
-- 🅿️ **12-Slot Visual Floor Map**: Interactive grid (A1-A6, B1-B6) with real-time occupancy status indicators.
+- 🅿️ **12-Slot Visual Floor Map**: Interactive grid (A1-A6, B1-B6) with real-time colour-coded occupancy status indicators.
 - 🎟️ **Automated Entry/Exit Gates**: Instant ticket generation with live timestamps and dynamic hourly billing receipts.
-- 📊 **Operator Portal & Analytics**: Secure login/registration, vehicle lookup, and real-time revenue analytics dashboard.
-- 💾 **Data Persistence**: Custom flat-file storage for slot states, credentials, and ticket audit logs.
+- 📊 **Operator Portal & Analytics**: Secure login/registration, vehicle lookup by plate number, and real-time revenue analytics dashboard.
+- 💾 **Data Persistence**: Custom flat-file I/O for slot states, credentials, and full ticket audit logs — no external database needed.
 
 🔗 [View Repository](https://github.com/QaswarSarfrazcodes/Car-Parking-System-OOP-java-)
 
@@ -142,11 +165,11 @@ A desktop software management system simulating real-world parking facility oper
 ### 💓 HeartPulse AI — Academic Practice Project
 > **Stack:** Flutter 3.x · Dart · Riverpod · Gemini API
 
-An academic practice app built to explore camera PPG optical pulse processing and basic Gemini API integration for simple health coaching tips.
+An academic practice app built to explore camera PPG optical pulse processing and basic Gemini API integration for health coaching tips.
 
 - 📸 Basic camera PPG frame processing and pulse estimation.
-- 🤖 Gemini API integration for generating basic wellness tips.
-- 🔒 Local storage for user test logs.
+- 🤖 Gemini API integration for generating contextual wellness tips.
+- 🔒 Local storage for user session and test logs.
 
 🔗 [View Repository](https://github.com/QaswarSarfrazcodes/heart_pulse)
 
@@ -157,7 +180,7 @@ An academic practice app built to explore camera PPG optical pulse processing an
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-87_in_2026-02569B?style=for-the-badge&logo=github&logoColor=white" alt="87 Contributions" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Repositories-14%2B_Active_Repos-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="14 Active Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-18%2B_Active_Repos-0A66C2?style=for-the-badge&logo=git&logoColor=white" alt="18+ Active Repositories" />
 </p>
 
 <!-- Live Green Squares Contribution Grid -->
@@ -181,7 +204,8 @@ An academic practice app built to explore camera PPG optical pulse processing an
 
 ## 🔨 Currently Working On
 
-- 📱 Deepening Flutter architecture — Riverpod & BLoC state management
+- 🎓 **MentorLync** — shipping my flagship AI mentorship Flutter app (RAG + LLM + Supabase backend)
+- 📱 Deepening Flutter architecture — Riverpod & BLoC state management, Clean Architecture patterns
 - 🧠 Exploring RAG pipelines and LangChain for smarter AI mobile integrations
 - 📜 IBM Generative AI Engineering certification (Coursera)
 - 🌐 Building more open-source Flutter + AI projects
