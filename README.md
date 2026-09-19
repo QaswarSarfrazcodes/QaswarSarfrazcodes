@@ -191,13 +191,17 @@ An academic practice app built to explore camera PPG optical pulse processing an
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QaswarSarfrazcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Qaswar's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QaswarSarfrazcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Qaswar's GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaswarSarfrazcodes&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QaswarSarfrazcodes&layout=compact&theme=tokyonight&hide=html,css,scss&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QaswarSarfrazcodes&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=QaswarSarfrazcodes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QaswarSarfrazcodes&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
