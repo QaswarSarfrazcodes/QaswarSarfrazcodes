@@ -98,6 +98,25 @@
 
 ## 🚀 Featured Projects
 
+### 🎙️ LectureMind — Voice-First Academic Knowledge Synthesis Engine
+> **Stack:** Flutter 3.24+ · Dart · Riverpod 2.6 · AssemblyAI Universal-3.5 Pro · Groq GPT-OSS-120B · Neumorphic Soft UI · GoRouter · Vector PDF &amp; HTML5 Canvas JPG  
+> **Association:** AssemblyAI Voice Agent Hackathon (Lablab.ai) — Solo Developer &amp; Team Lead
+
+> ![Status](https://img.shields.io/badge/Status-🚀_Shipped_%26_Live-brightgreen?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Flutter_Web_%26_Mobile-02569B?style=flat-square&logo=flutter&logoColor=white) ![AssemblyAI](https://img.shields.io/badge/AssemblyAI-Universal--3.5_Pro-FF5C35?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-GPT--OSS--120B-F55036?style=flat-square)
+
+An AI-powered voice intelligence and academic synthesis platform engineered for university scholars and adult lifelong learners (18+). Transforms spoken lectures, seminars, and slide documents into deeply structured notes, vector PDFs, 4-tier visual mind maps (JPG), and Socratic Bloom's taxonomy quizzes in seconds.
+
+- 🎙️ **Streaming Acoustic STT**: AssemblyAI Universal-3.5 Pro streaming WebSocket with domain vocabulary boosting for Pakistani English-Urdu code-switching &amp; STEM terminology.
+- ⚡ **Neural STT Normalizer**: Groq GPT-OSS-120B reasoning pipeline strips speech disfluencies (*"um"*, *"matlab"*, *"yani"*) and refines spoken lectures into polished academic prose.
+- 📑 **Publication-Grade Notes &amp; Styled PDF**: Hierarchical pedagogical notes with 1-click vector PDF study guide export and Listen Notes TTS audio recitation.
+- 🧠 **4-Tier Mind Map &amp; JPG Download**: Subject &rarr; Pillars &rarr; Mechanisms &rarr; Details concept tree with HTML5 Canvas rasterization for instant 1-tap JPG download.
+- 🎯 **Socratic AI Bloom's Taxonomy Quiz**: Rigorous scenario-based analytical questions with Neumorphic dial gauge scoring and spaced misconception explanations.
+- 📄 **Document &amp; Slide Studio**: Text extraction and parsing for lecture slides (.pdf, .txt, .md) to synthesize notes and quizzes directly from documents.
+
+🔗 [View Live Web Demo](https://qaswarsarfrazcodes.github.io/LectureMind/) | 🔗 [View Repository](https://github.com/QaswarSarfrazcodes/LectureMind)
+
+---
+
 ### 🎓 MentorLync — AI-Powered Mentorship Platform *(Under Active Development)*
 > **Stack:** Flutter · Dart · Supabase & Postgres · Riverpod / BLoC · Gemini API · RAG Pipelines · GoRouter  
 > **Association:** Flagship Personal Project — Actively Building
